@@ -8,11 +8,11 @@
                     <table class="table">
                         <thead>
                             <tr>
-                                <th>Title</th>
-                                <th>Description</th>
-                                <th>Due</th>
-                                <th>Grading</th>
-                                <th>From</th>
+                                <th><h4>Title</h4></th>
+                                <th><h4>Description</h4></th>
+                                <th><h4>Due</h4></th>
+                                <th><h4>Grading</h4></th>
+                                <th><h4>From</h4></th>
                             </tr>
                         </thead>
                         <tbody>

@@ -5,11 +5,11 @@
             <h1>Welcome To Teacher Dashboard</h1>
         </div>
     </div>
-    <div class="row">
-        <div class="col-md-8 ml-4">
-            <a href="/register/students" class="btn btn-danger">Register Students</a>
-        </div>
-    </div>
+{{--    <div class="row">--}}
+{{--        <div class="col-md-8 ml-4">--}}
+{{--            <a href="/register/students" class="btn btn-danger">Register Students</a>--}}
+{{--        </div>--}}
+{{--    </div>--}}
 {{--    <div class="row">--}}
 {{--        <div class="col-md-12 text-center">--}}
 {{--            <button class="btn btn-outline-dark" onclick="courses()">Courses</button>--}}
